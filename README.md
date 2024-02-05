@@ -7,9 +7,8 @@ I wanted to create a web API that uses an in-memory database to store informatio
 ![image](https://github.com/jmorg85/Book-Lookup-WebAPI/assets/15697425/b1e17f3a-6f7e-4406-b789-b9717b2d0f0a)
 
 # How to get started
-# How to get started
 1.  In the repository, click on the green code button as shown below and copy the URL
-![image](https://github.com/jmorg85/Display-my-github-repos-Frontend/assets/15697425/bdb9430f-4149-4824-8949-914081a5d29a)
+![image](https://github.com/jmorg85/Book-Lookup-WebAPI/assets/15697425/3421fa44-43d0-41fb-98ac-1fb92a28a095)
 
 2. Open your command Window (cmd)
 ![image](https://github.com/jmorg85/Display-my-github-repos-Frontend/assets/15697425/6c917aac-6ebc-46ce-a00e-fcdd32b02d05)
